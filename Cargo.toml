@@ -1,0 +1,10 @@
+[package]
+name = "serde_tuple_issue"
+version = "0.1.0"
+authors = ["Matt Garnett <14004106+c-o-l-o-r@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+serde_tuple = "0.2.5"
+serde = "1.0.90"
+serde_derive = "1.0.90"
